@@ -1,0 +1,8 @@
+{
+  "name": "PriorityFlow public",
+  "description": "Effortlessly rank your tasks by importance and deadlines to focus on what truly matters most.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
