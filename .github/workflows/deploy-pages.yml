@@ -31,6 +31,8 @@ jobs:
         run: npm install
 
       - name: Build
+        env:
+          VITE_BASE_PATH: /PriorityFlow/
         run: npm run build
 
       - name: Upload artifact
